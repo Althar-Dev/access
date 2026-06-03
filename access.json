@@ -2,7 +2,7 @@
   "clients": [
     {
       "name": "OnyxPay",
-      "domain": "onyxpay.web.id",
+      "domain": "onyxpay.id",
       "key": "c8a4d7f9-7a2e-4c2d-bb1d-1e3f8d9a1234"
     }
   ]
